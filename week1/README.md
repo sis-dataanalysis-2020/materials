@@ -1,2 +1,2 @@
-# AssignmentのURL
-- https://classroom.github.com/a/kNOeMrw5
+# week1のassignmentのURL
+- https://classroom.github.com/a/b9V2vzMa
